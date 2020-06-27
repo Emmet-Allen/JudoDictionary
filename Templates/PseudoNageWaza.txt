@@ -1,0 +1,42 @@
+Nage Waza: Throwing Techniques
+
+Divided into 4 sub-techniques:
+
+Te-Waza: Hand-Techniques 
+Koshi-Waza: Hip-Techniques 
+Ashi-Waza: Foot-Techniques
+Sutemi-Waza: Sacrafice-Techniques
+
+Each sub-techniques has unrecognized techniques
+
+Probably best to use an object constructor in general
+i.e.
+
+  function JudoDictionary{
+  
+    function NageWaza{
+      
+      function TeWaza{
+        this.name =
+        this.number =
+        this.movement =
+        this.regulation =
+        this.recgnized = 
+        this.
+        etc...
+        }
+      }
+    }
+        
+  Probably add some prototypes such as "Hand-Throwing-Techniques" defining the moves within
+  the specific movelist themselves
+  
+  Add a small text describing the movement of the move maybe using 
+  i.e. 
+  
+    ...
+    this.description = console.log(" xxyyyzzz ")
+  
+  or something like that
+  
+  
