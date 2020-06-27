@@ -10,10 +10,10 @@ function JudoDictionary{
 			}
 		};
 
-				function TeWaza(name,number,translation,regulation,recognized,officalLink){
+				function TeWaza(name,beltGroup,translation,regulation,recognized,officalLink){
 				this.name = name;
 			//Group number if technique is recognized
-				this.number = number;
+				this.beltGroup = beltGroup;
 			// Rough English translation
 				this.translation = translation;
 				this.regulation = regulation;
@@ -23,8 +23,9 @@ function JudoDictionary{
 				TeWaza.prototype = Object.create(NageWaza.prototype);
 					};
 
-				let ipponSeoiNage = new Tewaza("Ippon Seoi Nage", "Dai Ikkyo", "Shoulder Throw", Accepted, true);
+				let ipponSeoiNage = new Tewaza("Ippon Seoi Nage", "Dai Ikkyo", "Shoulder Throw", "Accepted", true);
 					ipponSeoiNage = Object.create(TeWaza.prototype);
 
-				
+				let kataGuruma = new Tewaza("Kata Guruma", "Dai Sankyo", "Shoulder Wheel", "Accepted", true);
+                    kataGuruma = Object.create(TeWaza.prototype);
 
