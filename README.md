@@ -17,4 +17,4 @@ able to see:
 8) If the Technique is Offically Recognized by the Kodokan
 9) A link directing to Offical Kodokan Documentation concerning the Technique (if available)
 
-If you would like to help me please feel free to either message me or email me. 
+If you would like to participate in the project, feel free to either message me or email me. 
