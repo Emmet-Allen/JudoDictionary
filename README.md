@@ -1,6 +1,6 @@
 # JudoDictionary
 
-A project containing objects, OOP practices, and vanilla JS to produce a database of quick references for both recognized and unrecognized 
+A project using Vanilla JS  to produce a database of quick references for both recognized and unrecognized 
 techniques within the martial art of Judo. 
 
 The implementation of this project is to create a database that web developers can use to implement on their websites for users to gain a 
