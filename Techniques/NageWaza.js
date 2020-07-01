@@ -27,5 +27,5 @@ function JudoDictionary{
 					ipponSeoiNage = Object.create(TeWaza.prototype);
 
 				let kataGuruma = new Tewaza("Kata Guruma", "Dai Sankyo", "Shoulder Wheel", "Accepted", true);
-                    kataGuruma = Object.create(TeWaza.prototype);
+                    			kataGuruma = Object.create(TeWaza.prototype);
 
