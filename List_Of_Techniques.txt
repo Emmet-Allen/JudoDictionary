@@ -1,14 +1,16 @@
-                                                          ----------Nage-Waza----------
+  ! = Completed                                                       
+														  
+														  ----------Nage-Waza----------
 
 Te-waza (手技): hand throwing techniques
 
-    Ippon seoinage (一本背負投): Single-handed back throw
-    Kata guruma (肩車): Shoulder wheel
-    Kibisu gaeshi (踵返): One-hand reversal
-    Morote gari (双手刈): Two-hand reap
-    Obi otoshi (帯落): Belt drop
-    Seoi nage (背負投): Back throw
-    Seoi otoshi (背負落): Back drop
+!   Ippon seoinage (一本背負投): Single-handed back throw
+!   Kata guruma (肩車): Shoulder wheel
+!    Kibisu gaeshi (踵返): One-hand reversal
+!    Morote gari (双手刈): Two-hand reap
+!    Obi otoshi (帯落): Belt drop
+		(Not Necesscary, Covering Variations instead) Seoi nage (背負投): Back throw 
+!    Seoi otoshi (背負落): Back drop
     Sukui nage (掬投): Scoop throw
     Sumi otoshi (隅落): Corner drop
     Tai otoshi (体落): Body drop
