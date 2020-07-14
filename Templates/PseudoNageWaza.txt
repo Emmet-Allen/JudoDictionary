@@ -39,4 +39,8 @@ i.e.
   
   or something like that
   
+  Note 7/14/20
   
+  Might be easier to put it all into a .JSON file for ease of use,
+  have NageWaza as the main object, each sub-division as an object within NageWaza 
+  and then have each technique be an object within object with characteristics as described above. 
