@@ -17,7 +17,7 @@ able to see:
 8) If the Technique is Offically Recognized by the Kodokan
 9) A link directing to Offical Kodokan Documentation concerning the Technique (if available)
 
-~~The format of the overall project was first going to be using a NONSQL DBMS such as MongoDB by using JSON as a means to store data, but seeing how the moves changes and relate to each other when creating a "Pen-To-Paper" visual, a relational database would be more aligned to the projects goals, due to the ever changing nature of the various instances of these moves.
+~~The format of the overall project was first going to be using a NONSQL DBMS such as MongoDB by using JSON as a means to store data, but seeing how the moves changes and relate to each other when creating a "Pen-To-Paper" visual, a relational database would be more aligned to the projects goals, due to the ever changing nature of the various instances of these moves.~~
 
 The format of the overall project is using MySQL DBMS, it would be easier to handle the flow of data along with being able to update certain things without needing to hassle myself with a huge JSON file. Though I was correct with a relational database is more aligned, but I didn't have the right implementation/approach. 
 
